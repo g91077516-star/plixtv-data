@@ -1,4 +1,36 @@
 {
-  "movies": [],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Iron Man 2",
+      "year": 2010,
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "rating": 6.9,
+      "age": "+13",
+      "duration": "2h 5min",
+      "match": "95%",
+      "type": "Película",
+      "poster": "https://image.tmdb.org/t/p/w500/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+      "streamUrl": "hhhhj",
+      "description": "El mundo sabe que el multimillonario Tony Stark es Iron Man, el superhéroe enmascarado. Sometido a presiones por parte del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la armadura de Iron Man porque teme que esa i",
+      "actors": [
+        "Robert Downey Jr.",
+        "Gwyneth Paltrow",
+        "Don Cheadle",
+        "Scarlett Johansson",
+        "Sam Rockwell"
+      ],
+      "tags": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ]
+    }
+  ],
   "channels": []
 }
